@@ -1,6 +1,4 @@
 # MYNTRA_ANALYSIS
-LINK TO DATABRICKS_MYNTRA_RETURN_ANALYSIS DASHBOARD - -https://dbc-51c8206b-ea9c.cloud.databricks.com/dashboardsv3/01f11fa97bc919b284a7687d541851a5/published?o=7474658862245923
-# Return & Revenue Overview Dashboard
 
 ## Overview
 The Return & Revenue Overview Dashboard provides insights into product returns and revenue performance for Myntra. It helps stakeholders monitor key metrics, identify trends, and make data-driven decisions to optimize sales and reduce returns.
