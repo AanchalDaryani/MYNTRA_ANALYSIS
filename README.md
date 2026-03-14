@@ -21,5 +21,4 @@ The Return & Revenue Overview Dashboard provides insights into product returns a
 - Return records
 - Product catalog
 
-## Contact
-For questions or feedback, contact the analytics team at analytics@myntra.com.
+
